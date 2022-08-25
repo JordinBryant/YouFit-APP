@@ -2,7 +2,7 @@
 ## A simple Fitness app that shuffles different daily workout ideas 
 
 
-[Visit website]()
+
 
 # Website Purpose:
 This site is intended to be for people who want to be active and workout everyday, but run out of ideas for excercises that they should do.
