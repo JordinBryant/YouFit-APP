@@ -19,6 +19,7 @@ This site is intended to be for people who want to be active and workout everyda
 
 # Website Images:
 
+<img width="1057" alt="Screen Shot 2022-08-25 at 12 58 46 PM" src="https://user-images.githubusercontent.com/110190777/186725899-fcb542f3-1700-4609-9a09-7e70c2265deb.png">
 
 
 
