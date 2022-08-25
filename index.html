@@ -1,12 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <script defer src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script defer src="./script.js"></script>
+    <!-- <script defer src="./app.js"></script> -->
+    <link rel="stylesheet" href="./style.css">
+
+    <title>YouFit!</title>
 </head>
+
 <body>
+    <h1>Daily Workouts</h1>
+    <h3>Need some inspo and ideas on how to get active today?</h3>
+    <h4>Click below!</h4>
     
+    <p class ="myParagraph">Beginner? 10 reps/ 5 excerises</p>
+    <p class ="myParagraph">Intermediate? 10 reps / 10 excerises</p>
+    <p class="myParagraph">Advanced? 20 reps 10 exercises</p>
+    
+    
+    <h2 id="workout">
+        </HTML-Tag>
+    </h2>
+    <h3 id="bodyPart"></h3>
+    <h4 id="equipment"></h4>
+    <img id="workout-img" src="">
+    <p style="position: fixed; bottom: 0; width:100%; text-align: center">
+    </p>
+
+
+    <a href="https://www.betterhealth.vic.gov.au/health/healthyliving/physical-activity-its-important"><span>Click here
+            to see fitness facts!</span></a>
+
+    <!-- 
+bodyPart: "waist"
+equipment: "body weight"
+gifUrl: "http://d205bpvrqc9yn1.cloudfront.net/0003.gif"
+id: "0003"
+name: "air bike"
+target: "abs" -->
+
+
+    <button id="random-bt" onclick="shuffleWorkout()">Shuffle Workouts</button>
+
 </body>
+
 </html>
