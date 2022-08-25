@@ -19,7 +19,7 @@ This site is intended to be for people who want to be active and workout everyda
 
 # Website Images:
 
-![Website image](Assets/workout photo.png)
+
 
 
 # Website Features:
